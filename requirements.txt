@@ -1,2 +1,4 @@
 auto-gptq
 transformers
+sentencepiece
+fastapi[all]
